@@ -6,3 +6,7 @@ https://www.portent.com/blog/copywriting/content-strategy/content-with-github-ma
 https://michelf.ca/projects/php-markdown/
 
 https://parsedown.org
+
+https://leanpub.com/manual/read?#leanpub-auto-reasons-to-use-github-or-bitbucket
+
+
