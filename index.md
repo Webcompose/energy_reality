@@ -5,6 +5,14 @@ title: Athena Jekyll Theme
 
 ---
 
-A simple and elegant theme for Jekyll and GitHub Pages.
+Welcome to the Energy Reality Book: The Necessary Renaissance
+
+This is a project that plans to use markdown as a way to organize chapters and the books contents.
+
+The intent is to create a workflow that is as simple yet complex enough to deliver a non-fiction book.
+
+Keep in mind that a non-fiction book has a significant front section, a content section and a back section.
+
+Any workflow to publish a book needs to be able to accomplish what a word processor does such as page numbers, chapter numbers, headers and footers etc.
 
 
