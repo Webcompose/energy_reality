@@ -14,4 +14,12 @@ and as I understand it I may need to create a .yaml file as well
 
 I started to install jekyll and that explains some of the recent content.
 
-There is a workflow.md file that has some possible guidelines to look into solutions                        
+There is a workflow.md file that has some possible guidelines to look into solutions 
+
+I am new to github but I am hoping to learn how to take advantage and gain an understanding of producing publisher-ready 
+content for both print and eBook. 
+
+I plan to get Amazon to sell the book in printed and ebook forms for kindle.
+
+I hope to finish the project with a working knowledge of how to repeat these steps.
+
