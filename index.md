@@ -13,6 +13,8 @@ Keep in mind that a non-fiction book has a significant front section, a content 
 
 Any workflow to publish a book needs to be able to accomplish what a word processor does such as page numbers, chapter numbers, headers and footers etc.
 
-https://webcompose.github.io/energy_reality/blob/gh-pages/src/md/index.md
+<a href="https://webcompose.github.io/energy_reality/blob/gh-pages/src/md/index.md">Book</a>
+
+<a href="workflow.md">Workflow</a>
 
 
