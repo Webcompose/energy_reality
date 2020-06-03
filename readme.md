@@ -13,7 +13,7 @@ There are several .md files and .less files that are css. There are a few .json
 and as I understand it I may need to create a .yaml file as well
 
 The previous collaborator managed to automate the table of contents, pagination, some styling and output to html and pdf.
-He worked with prince
+He worked with prince. Unfortunately he did not share how he accomplished this.
 
 I started to install jekyll and that explains some of the recent content.
 
@@ -26,3 +26,4 @@ I plan to get Amazon to sell the book in printed and ebook forms for kindle.
 
 I hope to finish the project with a working knowledge of how to repeat these steps.
 
+I am not stuck on using Prince. I'm ok with Pandoc or some other choice. I also don't mind a mix of programming languages.
