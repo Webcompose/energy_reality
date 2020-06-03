@@ -1,11 +1,9 @@
 ---
 layout: home
 permalink: "/"
-title: Athena Jekyll Theme
+title: Welcome to the Energy Reality Book: The Necessary Renaissance
 
 ---
-
-Welcome to the Energy Reality Book: The Necessary Renaissance
 
 This is a project that plans to use markdown as a way to organize chapters and the books contents.
 
