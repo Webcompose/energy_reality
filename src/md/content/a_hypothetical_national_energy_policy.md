@@ -1,0 +1,103 @@
+# A Hypothetical National Energy Policy
+
+How we use Energy is the single most significant factor affecting Climate and Global Ocean Chemistry. Seeing how release of greenhouse gas, particularly carbon dioxide, has such a profound effect on the average global temperature and ocean acidity it becomes necessary to factor that into the decision process of choosing the best energy mix.
+
+Designing and using an energy mix which works in tandem with sustainable, natural processes is a noble goal. Such a holistic eco-system is not so easy to achieve mostly because of a lack of shared knowledge, political will and a lack of public awareness. The technology exists today to create conditions globally for all people to thrive and prosper, but the main obstacle is ignorance and fear.
+
+<strong>Why Nuclear Power Plants Matter</strong>
+
+Keeping all, or most, of the world’s currently operating reactors is a necessary strategy. In fact we need many more. See how China has stepped up their energy plan with nuclear power.<sup><a href="#ch9-1">9-1</a></sup> Senator Lamar Alexander understands the need for more reactors. "I have proposed that we build 100 new reactors, which may seem excessive, but not with the Center for Strategic and International Studies saying up to 25 of our 99 nuclear reactors could close by 2020."<sup><a href="#ch9-2">9-2</a></sup>
+
+Dense, carbon free, nuclear energy gives many economic and environmental advantages that satisfy a fundamental need for reliable and steady power.
+
+<strong>How All Commercial Nuclear Power Plants Serve Humanity</strong>
+
+We have taken for granted almost a century of reliable electricity reaching our homes. The demand for electricity is continually growing, especially in places like China, India and Africa. They know that the cheapest and most reliable way to create electricity is the same as it has been for nearly a century and that is dirty coal.
+
+When nuclear plants started to flourish in the 1960s and 70s the demand for coal shrunk very significantly. The economics of nuclear was very competitive with coal. For over thirty years France has had a thriving economy. Over 70% of their energy comes from nuclear power. In the U.S. its 20%. The number of coal plants that did not need to be built prevented more dirty emissions from happening. Since its inception “Nuclear power may have saved 1.8 million lives otherwise lost to fossil fuels, may save up to 7 million more..."<sup><a href="#ch8-4">8-4</a></sup> over the next 40 years. (blog Scientific American - April 2, 2013) The numbers are boggling how much carbon dioxide we could have prevented but did not and now we are paying the price.
+
+<strong>So-called “Renewables" Are Unreliable and Not Renewable</strong>
+
+The term “renewables" has taken on a legal definition designating specific technologies that may be used to meet quota goals and/or be eligible for subsidies. This word “renewable" unfortunately is used to discriminate against new and existing hydro and nuclear power plants although both are arguably more “renewable" than wind or solar.
+
+“Sustainable" is our preferred term and has more relevant meaning and no legal entanglements. Although this word is also misused. You rarely see nuclear praised as being sustainable but it gives the most energy for the smallest amount of fuel. This demonstrates that a significant bias does exist. Nuclear waste is viewed as somehow unacceptable when, if you have read this far, you will know the waste is well managed and safely stored in dry casks and will serve as a future power source for new reactors. Yes, what we call waste is perfectly good fuel for producing electricity. That’s because only 5% of the fuel that goes into current reactors gets utilized. A handful of companies expect to have nuclear reactor prototypes that will consume used fuel (“nuclear waste") in less than 10 years.
+
+Wind and Solar are intermittent energy sources. That’s a very significant fact. It means that other sources of energy and/or storage capacity are needed in order to provide energy through the periods when wind and solar cannot function. So how is wind and solar renewable? It’s only renewable if it’s available. In a 24/7 world that’s not good enough. The capital investment and the environmental costs of compensating for the intermittency of wind and solar should be included in the estimates of the cost for comparison purposes.
+
+<strong>Can Distribution of Electricity Solve the Intermittency Problem?</strong>
+
+The theory goes that if you have in place enough wind turbines and solar panels over a wide enough land area, that there will always be enough wind or enough sun available. But we all know that the entire continent goes dark for several hours every day. And, yes, there is never a completely still day over the continent, but that does not really matter because what counts is that the power lines needed to even test this theory would be in far greater quantities than we could afford to build and the manpower needed to actually&nbsp; mine the copper would not be feasible. See Mathijs Beckers report, book and video.
+
+Wind has the most money expended for electrical power gained and is known for disrupting smooth grid transmissions. Solar can be less disruptive if installed locally, meaning, used by local homes, schools, or businesses for non grid applications such as heating water or recharging batteries for low power devices.
+
+<strong>Reclassifying Nuclear as Renewable</strong>
+
+Ohio, Arizona, Idaho and Missouri have initiatives to classify nuclear as renewable. This is a positive step towards making this a true nuclear energy era. On the other hand scrapping the use of renewable on the grid might be what’s needed. Perhaps the various types of power should be considered on their own merits. Perhaps keeping renewable energy off the grid should be made a legal requirement for renewable energy use in some locations.
+
+Wind and Solar and other intermittent energy sources need a new strategy. Separation of base load dependent electrical use and less critical electrical use is needed so that renewable energy sources can be applied locally and coupled with storage and not made part of the same grid that carries base load.
+
+<strong>Feeling Good Can Be Expensive</strong>
+
+Most of us are seduced by the idea of clean renewable energy until we realize that feeling good is expensive. When we deploy wind turbines (wind mills) and solar we are building what can be described as a very diffuse energy supply. In other words it takes a lot of them to create useful electricity. But since they cannot do that in any reliable way we need to have natural gas, coal plants or nuclear plants to replace them when they are down. But that disadvantage comes with a price. Ironically “renewable" energy is heavily subsidized. The structure of that agreement that subsidizes renewable guarantees that they get compensation as if the wind is blowing 24/7. But when they are not running (which is frequently) we need to pay for the power that replaces them. That means the power utility company charges you twice. Once for the inflated costs of temporary stretches of wind and solar energy and again for the replacement energy needed when the wind and sunlight are missing.
+
+<strong>When Is Solar OK?</strong>
+
+Solar on rooftops, in areas where it is frequently warm and sunny, can be used for local power to reduce energy needed from grids powered with fossil fuels. There is one distinct advantage over solar farms. The power that is harnessed goes into the local users home or business and it acts as a buffer that would not occur if the electricity came from a solar farm. But if the grid is powered by enough nuclear there won’t be a need for renewable energy. Wherever Nuclear Energy is located it does not make sense to add wind or solar to those regions but since policy often dictates and is hard to change we must give into political pressure and build reactors that can load follow wind and solar. If the leadership were to learn these facts a lot of expense could be spared. What's needed to make a much needed transition is a promotional campaign to sing the praises of nuclear power.
+
+When President Obama says let's use "all of the above" he really means he doesn't have the will to make nuclear a platform issue. He does not fully understand how serious our situation really is.
+
+<strong>When is wind OK?</strong>
+
+Wherever there is a windy remote community that does not have nuclear then wind makes sense in a limited way. The problem is that adding wind farms (also true for solar farms) to a grid near a large city will destabilize and cause damage to the infrastructure. And perhaps the worst effect of all is the cost of maintaining a system that has too many surges to the system. Energy Reality is not totally against renewable we just view the flawed technology as bad timing when nuclear already does such a good job. The demand is too great to expect renewables to be sufficient. The remediation of damage to our oceans and atmosphere needs to start immediately.
+
+<strong>Myths about Nuclear Power Plants</strong>
+
+It is impossible for a nuclear reactor to have a nuclear detonation. The kind of explosions that are possible are non-nuclear and the result of extreme temperature. Pressurized water and/or hydrogen explosions are possible but they occur in only the rarest circumstances. In fact the evacuations have done more harm than good.
+
+Pressurized reactors that currently exist have been known to have hydrogen explosions. These have been damaging mostly to the local plant and would not cause widespread contamination although Chernobyl did spread radiation it serves as the absolute worst case scenario that no reactor that has been built outside Soviet run Ukraine would ever be capable of. Fukushima did release much smaller amounts of radiation in the first days but subsided quickly. Both examples happened in old reactors where human error had a greater potential and the operators failed to follow recommended procedures.
+
+Living near a nuclear plant is not a radiation risk. “We are surrounded by naturally occurring radiation.&nbsp; Only 0.005% of the average American's yearly radiation dose comes from nuclear power; 100 times less than we get from coal , 200 times less than a cross-country flight, and about the same as eating 1 banana per year."
+
+We need to put our support toward North American initiatives and the newest trend that is gaining traction is the Small Modular Reactor (SMR). This is a trend that would speed up how quickly we build power plants and bring down the costs.
+
+https://piaterdaro.files.wordpress.com/2015/10/handbook-of-radiation-measurement-and-protection.pdf
+
+<strong>Fossil Fuels</strong><strong>&nbsp; </strong>
+
+Coal plants are the worst offenders by far! London's Great Smog of 1952 is a perfect example.
+
+&nbsp;www.metoffice.gov.uk/education/teens/case-studies/great-smog
+
+But all fossil fuel plants produce carbon dioxide. We already have an inventory of CO₂ that recently passed the 400 ppm mark. CO₂ will need to be removed from the air and oceans if we expect to reverse the effects of global warming and climate change and at the same time save all the species of fish and mammals from going extinct.
+
+<strong>Natural Gas</strong>
+
+This under-regulated industry has been abusive and treated with abuse. There are sources that indicate it has had a positive impact on reducing CO₂ that coal would otherwise produce. Yet other indications of methane leaks lead us to believe the rewards are not big enough. Studies indicate that there is effectively no green house gas reduction.
+
+thebreakthrough.org/index.php/voices/energetics/us-exports-have-little-discernable-impact-on-massive-global-coal-growth
+
+More details are here:
+
+thebreakthrough.org/index.php/issues/natural-gas/faqs-on-natural-gas
+
+But satellite data reveals a high level of methane release across the U. S. Whenever any fossil fuels are involved it comes with a price. Fracking has been doing its damage to the water table, the local wildlife, the destruction is an invasion of the landscape and has literally invaded adding earthquakes to the list of growing concerns.
+
+Gas plants in Dakota flare off between 30% and 40%<sub><a href="#ch9-3">9-3</a></sub> of the methane they gather. That combustion is a problem! How much CO₂, anybody? Is that part of the calculations done in studies on their contribution?
+
+The average person views the water of the oceans as a limitless and indestructible resource. Part of our policy needs to adapt a view on the precious resources of water and oxygen. Water and air are not replaceable. We must ensure these are properly preserved. Our children and grandchildren will be affected by the degree to which we keep these resources pure &amp; clean.
+
+<strong>Safety Concerns about Nuclear Power Plants</strong>
+
+www.nei.org/Issues-Policy/Safety-Security/Operational-Safety
+
+<strong>New Perspective and Prospects for so-called Nuclear Waste</strong>
+
+If there’s anything useful to know about nuclear waste is that the next generation of reactors we will likely start using it as nuclear fuel (not waste at all) for converting to energy. It is also easily managed simply because the fuel does not change its physical size and takes up very little room to start with.
+
+<strong style="font-size: 1rem;">Molten Salt Reactors (MSRs) Show Great Promise With Many</strong><strong style="font-size: 1rem;"> Advantages.</strong>
+
+The Molten Salt Reactor is a Generation Four technology and is under development in several countries. Those who are advocates of MSRs recognize that it solves a great number of issues but also provides new opportunities that never existed for existing nuclear technology.
+
+With commercial roll-outs of MSRs in 6-9 years. MSRs are encouraged but only if they are passively safe (walk away safe) and all indications suggest that MSRs solves the common fears about reactors. All current reactors have aspects that, although engineered well, still scare people.
+
+MSRs are not only passively safe but offers additional safety by having no pressurized containment. Traditionally a worse case scenario for current reactor designs has the possibility (although highly unlikely to happen) of spreading radioactive particles for miles. This is not the case with Molten Salt Reactors. Since the fuel is in a high temperature liquid state with no steam to carry radioactive elements it will simply harden when exposed to cooler surroundings.
