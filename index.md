@@ -15,6 +15,6 @@ Any workflow to publish a book needs to be able to accomplish what a word proces
 
 <a href="https://webcompose.github.io/energy_reality/blob/gh-pages/src/md/index.md">Book</a>
 
-<a href="workflow.md">Workflow</a>
+<a href="workflows.md">Workflow</a>
 
 
