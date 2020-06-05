@@ -16,6 +16,7 @@ baseurl: '/energy_reality'
 
 # Defaults
 permalink: /:title:output_ext
+
 defaults:
   -
     scope:
@@ -55,6 +56,7 @@ theme_colors:
   - white
   - yellow
 
-
+plugins:
+  - jekyll-paginate
 
 theme: jekyll-theme-minimal
