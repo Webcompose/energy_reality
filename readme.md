@@ -1,7 +1,10 @@
-For Fivver and other collaborators:
+ collaborators:
 
 The two directories that matter most right now are docs and src.
 The project here is to assemble a book from the markdown files located in the src directory.
+
+The github website: https://webcompose.github.io/energy_reality/
+
 
 My basic newbie understanding is that the files can be parsed and output to a single html page with pagination and
 other book-like features such as a table of contents, frontmatter in this case acknowledgement and prelude, 
