@@ -15,7 +15,7 @@ remote_theme: 'internet-de-france/athena'
 baseurl: '/energy_reality'
 
 # Defaults
-
+permalink: /:title:output_ext
 defaults:
   -
     scope:
