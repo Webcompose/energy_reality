@@ -16,7 +16,7 @@ baseurl: '/energy_reality'
 
 # Defaults
 permalink: /:title:output_ext
-
+sort: 'date' | reverse
 defaults:
   -
     scope:
