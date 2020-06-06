@@ -1,0 +1,181 @@
+# Nuclear Technology’s Numerous Uses
+
+This is the 2004 article by Alan E. Waltar (alan.waltar@pnl.gov) is director of nuclear energy at Pacific Northwest National Laboratory in Richland, Washington.
+Original article was published in "Issues in Science and Technology, Vol. XX, No. 3, Spring 2004"
+
+<div style="width:170px;margin:auto auto;text-align:center;font-family:serif,Times Roman;font-weight:bold;font-style:italic;font-size:18px;">We should not let<br />unjustified fear of <br /> radiation create<br />obstacles to <br />continued progress<br />and benefits.</div>
+
+In his 1953 “Atoms for Peace" address to the United Nations, President Dwight D. Eisenhower challenged scientists and engineers to harness the atom for humanitarian purposes in medicine, agriculture, and other non-power aspects of direct benefit. Half a century later, nuclear technology has had astounding economic and job impacts in the United States (see Table 1). The totals in terms of dollars and jobs are impressive, but perhaps the biggest revelation is that the atom has a substantially larger impact outside the nuclear power sector than in it.
+
+Perhaps the most significant success story over the past half-century in harnessing radiation to serve modern humanity is found in the field of medicine.
+
+<strong><i>Sterilizing medical equipment.</i></strong> Radiation in high enough doses can kill microorganisms, so gamma radiation is used to sterilize dressings, surgical gloves, bandages, and other equipment routinely used during medical procedures. Today, well over half of all sterilized medical equipment used in modern U.S. hospitals has had radiation treatment. This is safer and cheaper than most other methods (such as steam) because it can be done after the item is packaged. Its sterile shelf life is practically infinite as long as the package is not opened.
+
+<strong><i>New drug testing.</i></strong> Substantial testing must be done before new drugs are approved. This includes detecting how a product attacks a targeted disease and any possible side effects. Radioisotopes, because of their unique imaging characteristics (via particle emission), are ideally suited to deal with such questions–including material uptake, metabolism, distribution, and elimination of unwanted residues from the body. For at least 80 percent of the new drugs approved by the U.S. Food and Drug Administration (FDA) for medical use in the United States, radiation was a crucial component of their success in making it through the approval process. The International Atomic Energy Agency estimates that some 100 to 300 radiopharmaceuticals are in routine use throughout the world, and most are commercially available.
+
+<strong><i>Diagnostic techniques.</i></strong> The earliest use of radiation in the medical field occurred in World War I, when portable x-rays helped field surgeons save many lives. Today, dental x-rays, chest x-rays, mammograms, and numerous other tests are used routinely in the medical and dental professions.
+
+But x-rays, useful as they are, provide only a snapshot of a particular piece of the anatomy. The imaging properties of radioisotopes allow modern nuclear medical specialists to measure the activity of some specific physiological or biochemical function in the body as a function of time. Two of the most common technologies are single photon emission computed tomography (SPECT) and positron emission tomography (PET), which are used to detect cancer. Nuclear diagnostic techniques are now routinely used throughout the industrial world to determine anomalies in the heart, brain, kidneys, lungs, liver, breasts, and thyroid glands. Bone and joint disorders, along with spinal disorders, also benefit directly from this routine use of radioisotopes.
+
+<strong><i>Therapeutic approaches.</i></strong> Until recently, the use of radiation to actually cure diseases was rather limited. One of the first therapeutic applications involved using iodine-131 (¹³¹I) to cure thyroid cancer. Since the thyroid has a special affinity for iodine, it is a relatively simple and straightforward matter to have a patient drink a carefully determined amount of ¹³¹I in a chemically palatable form of solution. The ¹³¹I then preferentially lodges in the thyroid gland, and the beta-emitting properties of this radioisotope subsequently target and destroy the thyroid malignancy. Since ¹³¹I has a half-life of eight days, it effectively disappears within a few weeks. Radiation is now used widely in the treatment of other cancers as well.
+
+Most of the current therapeutic procedures deliver radiation to the patient externally. Accelerators are used to deliver either protons to the target or beta particles, which are normally directed onto a target that secondarily produces x-rays. Although this can have substantial benefits, it is impossible to keep the radiation from killing or impairing healthy tissue in the immediate vicinity, especially if the beam must pass through healthy tissue to reach the malignancy.
+
+<table class="waltartable"><tr><td colspan="5">Table 1. Overall Impact of Nuclear Technology in the United States.</td></tr>
+<tr><td>&nbsp;</td>
+<td class="botbord" align="center" colspan="2">1991</td>
+<td  class="botbord" colspan="2">1995</td></tr>
+
+<tr class="botbord">
+<td>&nbsp;</td><td  align="center">Sales<br />(billion dollars)</td>
+<td>Jobs<br />(million)</td>
+<td align="center">Sales<br />(billion dollars)</td>
+<td>Jobs<br />(million)</td></tr>
+<tr><td>Radiation</td><td align="center">257</td><td align="center">3.7</td><td align="center">331</td><td align="center">4.0</td></tr>
+<tr><td>Nuclear Power</td><td align="center">73</td><td align="center">0.4</td><td align="center">90</td><td align="center">0.4</td></tr>
+<tr class="botbord"><td>Total</td><td align="center">330</td><td align="center">4.1</td><td align="center">421</td><td align="center">4.4</td></tr>
+<tr><td colspan="5"><span style="font-size:9px;"><sup>a</sup>Using a multipliciative economic model that includes secondary revenue and jobs created by the primary source</span></td></tr>
+</table>
+
+
+There are three principal ways to minimize injury to healthy cells from radiation therapy: (1) rotating the external beam around the patient, (2) creating radioisotopes only at the site of the malignancy, and (3) developing a method to deliver appropriate radioisotopes directly to the cancerous tissue.
+
+An example of the first approach is the “gamma knife," where the radioactive source is delivered from many directions, with the beam continuously focused on the targeted abnormality but with only small amounts of radiation passing through healthy tissue.
+
+An example of the second approach is boron-neutron capture therapy. Boron is introduced into the patient as part of a special chemical carrier, so that it preferentially concentrates at the tumor site. A neutron beam is then focused on the boron, producing alpha particles that destroy the malignant cells only in the immediate vicinity of the concentrated boron. Because alpha particles are typically stopped within one human cell from their point of origin, the intense radiation damage is quite localized.
+
+An example of the third approach is cell-directed radiation therapy. In order to have just localized damage, either beta or alpha emitters are needed. For solid tumors, one method of getting the radioisotope to the target is direct injection, assuming that the tumor is accessible. Brachytherapy, for instance, is used to treat prostate cancer: Several “seeds," each containing a small amount of a radionuclide such as I125 or palladium-103 within a titanium capsule about the size of a grain of rice, are placed directly into the prostate gland, where they remain for life. Another cell-directed method involves attaching the radioisotope to a chemical that has a special affinity for the malignancy. This is called the monoclonal antibody (or “smart bullet") approach. It is particularly suited for treating malignancies that are not confined to a particular spot, such as leukemia and non-Hodgkin’s disease.
+
+Although many of these therapeutic applications of radiation are still in relatively early trial stages, the potential for success is enormous.
+
+<strong>AGRICULTURE</strong>
+
+There remains a huge need to find new ways to increase food production and deliver food without spoilage to the growing global population.
+
+<strong><i>Greater crop production.</i></strong> By attaching radioactive tracers to known quantities and varieties of fertilizers, it is possible to directly determine nutrient efficiencies as the labeled products are absorbed at critical locations in the plant. This can help to substantially reduce the amount of fertilizer required to produce robust yields.
+
+Water is becoming quite scarce in many areas of the world. Neutron moisture gauges can measure the hydrogen component of water in both the plant and the surrounding soil. Thus, they are ideal instruments to help farmers make the best use of limited water supplies and are now found on many large U.S. farms.
+
+Another effective way to improve crop production is the development of new species–varieties that can better withstand heat or storm damage, have earlier maturing times to escape frost damage and allow crop rotation, resist diseases and droughts, provide better growth and yield patterns, deliver improved nutritional value, allow improved processing quality, and so on.
+
+Specialized radiation techniques–either directly bombarding seeds to alter DNA structures or irradiating crops to induce variations in the resulting seeds–can greatly accelerate the selection process. Radiation was the key element in the development of 89 percent of about 2,250 new crop varieties in the past 70 years; three-quarters of these irradiation-induced varieties were food crops, and the rest were ornamental flowers.
+
+To date, China has benefited the most from using radiation to improve crop species. As of 2002, nearly 27 percent of the crops grown in China were developed this way. The equivalent figure elsewhere ranges from 11.5 percent in India and 9.3 percent in Russia to 7.8 percent in the Netherlands, 5.7 percent in the United States, and 5.3 percent in Japan. Indeed, the application of radiation techniques to the development of new crop varieties has probably provided the greatest global economic value of any form of harnessing radiation.
+
+<strong><i>Improving Animal Health. </i></strong> Farm animals have likewise benefited from the application of radiation techniques. One key area concerns the optimal use of natural pastures or commercially prepared feeds. This is accomplished by labeling feed with specialty radioisotopes, such as carbon-14, and then tracing the paths of the food within the animal’s digestive system to determine where and how quickly it is broken down into body tissues or milk. This helps determine food’s nutritional value.
+
+Radioisotopes have also been used to develop vaccines that are effective against certain animal diseases. For example, rinderpest (“cattle plague")–a dreaded disease that has killed millions of cattle on African farms over the past four decades–has been eliminated using radiation-produced vaccinations in 16 of the 18 African countries previously infested.
+
+<strong><i>Eradication of pests.</i></strong> One proven way to use nuclear technology in controlling or even eradicating unwanted insects is the sterile insect technique. This involves mass “factory breeding" of large numbers of the target insects and sterilizing the males by exposing them to gamma irradiation. When the sterilized males are released into infested areas and mate with wild females, no offspring are produced; if the sterilized males greatly outnumber the wild males in the area, the pest will be eradicated. Perhaps the largest success to date in using this technique occurred in Mexico.
+
+The Mediterranean fruit fly (the medfly) was knocked out entirely by 1981, and a screwworm eradication program yielded some $3 billion in benefits to the Mexican economy by 1991.
+
+<strong><i>Food processing. </i></strong> Tragically, infestation and spoilage prevent one-fourth to one-half of the food produced in the world from reaching people. In addition, the food that does reach them can become unsafe to eat because of contaminants such as insects, molds, and bacteria. The U.S. Centers for Disease Control and Prevention estimated in 1999 that some 5,000 Americans die each year from food-borne diseases, and about 30 million others become sick, with about 300,000 of them requiring hospitalization.
+
+Food irradiation involves subjecting food to carefully controlled amounts of ionizing radiation, such as beta particles or gamma rays, to break the DNA bonds of targeted pathogens. This is especially effective in destroying the reproductive cycle of bacteria and pathogens. It can eradicate unwanted organisms and specific non­spore-forming pathogenic microorganisms such as salmonella. It can also interfere with physiological processes such as sprouting in potatoes or onions. Thus the shelf life of many foods can be extended appreciably, and the presence of food-borne disease organisms such as Escherichia coli can be dramatically reduced. It is important to note that food processed by radiation does not become radioactive. At the doses used, it is impossible for beta, gamma, or x-rays to make food radioactive.
+
+One of the prime advantages of food irradiation is that it sterilizes food without altering its form or taste. Older methods of food processing, which rely on heating or freezing, extreme drying or salting, or chemical treatments, generally do change the way food tastes and/or looks.
+
+Widespread acceptance of food irradiation by the general public has been slow, but there are several signs–particularly in the United States–that consumer acceptance is not far away. Major supermarkets have signed on to offer irradiated meat at some stores. And the 2002 Farm Bill approved by Congress mandated that commodities such as meat and poultry that are treated by any technology approved by the U.S. Department of Agriculture and the FDA for improving food safety must be made available to the National School Lunch Program. Food irradiation is included in this mandate.
+
+<strong>INDUSTRY</strong>
+
+Although modern factories are the source of most of the products that we use daily, harnessed radiation in industry likely constitutes the most hidden use of this technology to ordinary citizens.
+
+<strong><i>Process control and plant diagnostics.</i></strong> Because radiation has the ability to penetrate matter, industrial measurements can be made using radioisotopes without direct physical contact with either the source or the sensor. This allows online measurements to be made nondestructively while the material being measured is in motion. Measurements that are typically made in production lines include liquid levels, the density of materials in vessels and pipelines, the thickness of sheets and coatings, and the amounts and properties of materials on conveyor belts.
+
+Radioisotope “thickness gauges" are unequalled in performance and are used extensively in almost every industry involved in producing sheet material (such as sheet metal or paper). It is highly unlikely that automation in such industries would be possible without the use of radioisotopes. Modern steel mills use such gauges to measure the thickness of rolled metals accurately at every moment during production. Paper mills use them to measure the density of wet pulp accurately in the first stages of paper production. These gauges are also frequently used in the food industry (such as in filling cereal boxes) and the oil industry, where determining the density of liquids, solids, or slurries is important.
+
+Many radioactive tracer techniques have been used to investigate the reasons for reduced efficiency in modern plant operations. Tracers are now routinely used to measure flow rates, study mixing patterns, and locate leaks in heat exchangers and pipelines.
+
+<strong><i>Materials development.</i></strong> Changes in molecular structure, including the inducement of desired chemical reactions, can be created in certain materials by appropriate exposure to radiation. For example, some polymers whose cross-linkage is induced by radiation can be tailored to shrink when heated. “Heat-shrink" products are now widely used in the packaging industry. Wire and cable insulated with radiation-cross-linked polyvinylchloride exhibit excellent resistance to heat and chemical attack and are widely used in the automobile, aerospace, and telecommunications industries. This process is being used increasingly to cross-link foamed polyethylene for thermal insulation and wood/plastic composites cured by gamma irradiation. The latter are gaining favor for flooring in department stores, airports, hotels, and churches because of their excellent abrasion resistance, the beauty of natural grains, and low maintenance costs. Many tire companies are now using radiation to vulcanize rubber for tire production as an improvement over the conventional use of sulfur.
+
+<strong><i>Materials testing and inspection.</i></strong> One of the earliest industrial applications of radiation was to measure engine wear in the automotive industry. Irradiating the surface of an engine part under investigation (such as a ring or a gear) makes that portion of the metal radioactive. In tests to see which materials hold up best during operation, any wear on that part results in some radioactive material being deposited in the oil lubrication stream, where it can be readily measured.
+
+Corrosion in pipes is a common problem in the industrial world. By moving a gamma source on one side of the pipe and a detector on the other, precise analyses can be made of the corrosion patterns. The activation property of radiation is used extensively to determine precise layers of special coatings, such as metal coatings to produce galvanized or tin-plated steel. The penetrating property of radiation is routinely used to check welds in crucial places such as airplane wings, housings for jet engines, and oil and gas pipelines.
+
+Police and firefighters should be trained to deal with the real dangers of nuclear materials rather than perceived ones.
+
+<strong><i>Energy</i></strong> The coal industry benefits directly from using neutron gauges to measure and control the moisture content in coal and coke. And gamma sources are used to assay ash content as well as the combustion gases that go up the stack. It is important to determine the sulfur and nitrogen contents of coal, which are of considerable interest because of their contributions to acid rain. A new radiation technique called electron beam processing has been developed to remove both sulfur and nitrogen oxides from flue gas effectively and allow the products to be converted into a commercially viable agricultural fertilizer.
+
+The oil industry also depends heavily on the use of radiation to conduct business. Borehole logging often employs nuclear probes to determine the potential for economically viable oil deposits in test wells. Radiation monitors are also widely used to determine malfunctions in refinery operations.
+
+<strong><i>Personal care and conveniences. </i></strong> Anyone who wears either contact lenses or glasses benefits directly from radiation. The saline solution used to clean and store contact lenses is sterilized by gamma radiation. Neutron probes are used to ensure the proper moisture content during the making of the high-quality glass for eyeglasses. Cosmetics often use gamma radiation to rid products of any microbes before the product is packaged for public consumption. One helpful feature of radiation is that it changes the molecular structure of some materials to allow them to absorb huge amounts of liquid. Useful products that rely on this include air fresheners, disposable diapers, and tampons.
+
+<strong>OTHER FIELDS</strong>
+
+Radiation has an increasing role in public safety, including airport screening, crime solving, and the deterrence of terrorism at points of entry. The use of americum-241 in smoke detectors has undoubtedly saved thousands of lives and prevented untold property damage.
+
+Radiation is also a key component for archaeological dating and the enhancement of precious gems. It is likewise used extensively for measuring and controlling sources of contamination to our environment.
+
+Advanced space exploration would not be possible without radiation technology. Plutonium-238 is widely used as both a heat source to keep instruments from freezing and a source of electricity to run instruments and communication devices. Propulsion that uses nuclear-reactor rockets will be needed for manned voyages to other planets or their moons.
+
+Finally, radiation technology provides a powerful fleet of tools to probe and unravel the mysteries of the basic structure of materials. From electron microscopes to very-high-energy accelerators, researchers have one of the best sets of technologies available to both explore existing matter and to synthesize new materials with highly desirable properties.
+
+<strong>OBSTACLES TO FURTHER PROGRESS</strong>
+
+It is not a given that these impressive applications of nuclear technology will continue to expand. The public’s sometimes overriding fear of radiation has historically thwarted progress in many areas.
+
+This fear has worked its way into numerous rules and regulations among federal and state agencies that have stymied progress and added considerable cost in several areas. For instance, the intense degree of regulation of almost anything having a nuclear component forces practitioners to use time-consuming and expensive accounting practices. Is the cost of such detailed recordkeeping really warranted when the expense of such attention to detail is ultimately passed on to the public? Some medical practitioners have reacted by moving into other areas of practice.
+
+Perhaps a larger issue facing the nuclear medical industry is the disposition of low-level radioactive waste (LLW). There are currently only two U.S. sites licensed to receive this waste material: Richland, Washington, and Barnwell, South Carolina. Efforts to dispose of LLW in other areas have met strong public resistance, even though detailed scientific studies have shown such sites and associated operations to be much safer than essentially any other waste commodity. As a result, long-distance hauling of LLW from hundreds, if not thousands, of sites clearly adds to the cost of waste disposal today and hence to the cost of using this technology.
+
+A significant impediment to the medical community is the limited availability of new radioisotopes. Currently, the United States imports at least 90 percent of the radioisotopes used in daily commerce. Further, the U.S. Department of Energy has reduced its research budget for producing and developing the use of new radioisotopes to zero. Some clinical studies to use new radioisotopes in curing cancer and other life-limiting diseases have been halted because of the lack of isotopes. Of perhaps greater concern, there are very few sources of alpha emitters, which have enormous potential for curing several types of cancer. Without a major change to revitalize the U.S. radioisotope program, nuclear medicine could stagnate. New techniques such as gene therapy will likely play an increasing role in the future, but even these often require the concurrent use of radiation technology in order to be successful.
+
+Concern over radiation dangers is also thwarting progress in areas other than medicine. A classic case is food irradiation. This technology has been studied for more than four decades in several countries and has been declared safe and effective by essentially every relevant international scientific body. Yet only recently have U.S. federal approvals been given for its use on major food items. Irradiated foods sold in bulk, such as chicken or strawberries, are designated with the “radura" symbol on the package. Approval of the irradiation of seafood commodities is still pending, but efforts to gain it are under way. This is important because spoilage is quite high for many of these products. In a less visible aspect of agriculture, many thousands of acres of stubble are burned every year to cleanse fields of insects and other undesirable pests; gamma irradiation might provide a better soil-cleansing operation.
+
+Even though radioisotopes are widely used in industry for gauges, the automation of processing, the manufacture of new materials, and so on, there is still reluctance in some quarters to use radiation because of concern that the public may be unwilling to accept products from a company utilizing radiation technology.
+
+The U.S. space program has stagnated somewhat over the past decade or two because policymakers have been exceptionally cautious about developing nuclear propulsion engines. Fears of minute quantities of radioactive materials falling back to Earth after a mishap in space have sometimes overshadowed the fact that deep space exploration with sizable payloads simply cannot be accomplished without nuclear propulsion. The United States has launched only one nuclear reactor into space to date, but there are now plans to build and launch a substantially larger reactor as a key part of the Jupiter Icy Moon project.
+
+Since the 9/11 tragedy, public fears have risen about terrorists’ possible use of a radiation dispersal device (RDD) or “dirty bomb." Although this is clearly possible, the actual health effects from such a detonation would almost certainly be far less than imagined by a frightened public. Several scores of radioisotopes are being used to supply the benefits described throughout this article, but only a handful of radioisotopes pose a real potential hazard in an RDD. Hence, it is important that police and firefighters be trained to deal with real dangers rather than perceived ones, so that unnecessary panic does not take place if someone threatens to use such a device or actually sets one off.
+
+It is clear that President Eisenhower’s challenge to use the atom for peace has been ably met. The benefits achieved over the past 50 years are nothing short of astonishing. One out of every three patients who enter a U.S. hospital or medical clinic, for instance, benefits directly from nuclear medicine. This translates into over 10 million nuclear medical procedures per year. Even broader beneficial impacts are possible, such as the successful adoption of food irradiation in normal commerce.
+
+But there are significant obstacles to overcome whenever radiation is used, mainly because of lingering public fears. Perhaps the most significant success that the scientific community could strive for in this field in the next 50 years is to effectively engage the public and political leaders in a dialogue to eliminate unnecessary fears of radiation. Making people more aware of the enormous daily benefits of radiation is an important first step. If we could accomplish this, the dream of a better world that President Eisenhower set before us could be achieved many times over.
+
+
+
+
+
+## Chapter Twelve Endnotes
+
+Recommended reading
+<ol>
+     <li>S. Ahloowalia, M. Maluszynski, and Karin Nichtertein, “Global Impact of Mutation-Derived Varieties," Joint FAO/IAEA Division of Nuclear Techniques in Food and Agriculture,</li>
+</ol>
+International Atomic Energy Agency, Vienna, February 2003.
+
+International Atomic Energy Association (IAEA), <i>Induced Mutations and Molecular Techniques for Crop Production</i>, proceedings of a symposium jointly organized by IAEA and FAO, Vienna, June 19 to 23, 1995.
+
+Management Information Services, <i>Economic and Employment Benefits of the Use of Nuclear Energy to Produce Electricity</i> (1994).
+
+Management Information Services, <i>The Untold Story: Economic and Employment Benefits of the Use of Radioactive Materials</i> (1994).
+
+Management Information Services, <i>The Untold Story: the Economic Benefits of Nuclear Technologies</i> (1996).
+
+“Irradiated Food, Good; Food-Borne Pathogens, Bad," <i>Nuclear News</i>, July 2003, p. 62.
+
+Jihui Qian, and Alexander Rogov, “Atoms for Peace: Extending the Benefits of Nuclear
+
+Technologies" (2003) (http://www.iaea.or.at/worldatom/Periodicals/Bull371/qian.html).
+
+Uranium Information Centre, Australia (2003) ().
+
+Kazauki Yanagisawa et al., “An Economic Index Regarding Market Creation of Products Obtained from Utilization of Radiation and Nuclear Energy (IV)," <i>Journal of Nuclear Science and Technology</i> 39, no. 10 (October 2002): 1120­1124.
+
+________________________________________
+
+Alan E. Waltar (alan.waltar@pnl.gov) is director of nuclear energy at Pacific Northwest National Laboratory in Richland, Washington.
+
+________________________________________
+
+Related Posts
+
+No related posts.
+
+Cite This Article
+
+Waltar, Alan E. "Nuclear Technology’s Numerous Uses." Issues in Science and Technology 20, no. 3 (Spring 2004).
+
+http://youtu.be/CUKer3DGZAQ
