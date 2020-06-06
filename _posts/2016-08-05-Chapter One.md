@@ -1,4 +1,4 @@
-# Chapter One - Collectively Preventing Self Destruction
+#Collectively Preventing Self Destruction
 
 One of the biggest surprises I've encountered in dealing with people when I want to share information about energy and the promise of nuclear energy, is that a strange thing happens after the conversation. The people seem happier.
 
