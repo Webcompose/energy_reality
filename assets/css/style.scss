@@ -1,7 +1,8 @@
 ---
 ---
 
-@import "{{ site.theme }}";
+@import "minima/skins/{{ site.minima.skin | default: 'classic' }}";
+@import "minima/initialize";
 
 html{font-size:14px;}
 html body.font-smoothing div article.container.mx-auto.px-2 div.mt-4.mb-2.clearfix.header-text div.clearfix.mb-4.py-1 p.h4.lh-condensed time{display:none;}
