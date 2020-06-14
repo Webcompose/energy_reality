@@ -1,0 +1,211 @@
+# An Uncompromising Reality
+
+<p style="text-align: center;">"The discovery of nuclear reactions need not bring about the destruction of mankind any more than the discovery of matches.<sup><a href="#ch4-1">4-1</a></sup>"<br />
+-&nbsp;&nbsp;&nbsp;Albert Einstein</p>
+
+
+
+## The Obstacles
+
+There are many reasons that this miracle of science has not flourished despite the wishes and intentions of people like John F. Kennedy and others.<a href="#ch4-2"><sup>4-2</sup></a> The lack of a standard nuclear reactor type. The decentralized political system. The uninformed public. The antinuclear lobby. A strict regulator. Political interference. Construction costs. The list goes on. But central to most of the road blocks is a lack of public awareness and fear of the unknown.&nbsp;
+
+Einstein was intensely aware of his role in the creation of the atom bomb<a href="#ch4-3"><sup>4-3</sup></a>, however indirect, but also of the benefits that this new science entailed, whether it be medical breakthroughs or the generation of electricity. To his horror his discoveries not only held great promise harnessing of the atom for humanitarian benefits generating electricity and providing isotopes for medicine but also the atom bomb. In the quote above he is saying it’s what we do with technology that becomes either destructive or beneficial. The choice is ours. Einstein also has been quoted about the capacity of human stupidity and I’m sure he would be sad to see how we have brought about climate change and its twin tragedy ocean acidification (more on this later) and plethora of other Earth maladies.
+
+Our biggest problem is collective blindness. The willful ignorance is frightening. In terms of the probability for self destruction, it need not be nuclear weapons that destroys us, more likely, it will be our contribution to these Earth illnesses that finishes the job. The path we have taken is one of willful ignorance, neglect and indifference. As a civilization we continue to behave in the manner to which we have become accustomed, the same lifestyle that brought about climate change. Summing it up, our attitude of neglect, wastefulness, selfish pursuits of instant gratification, exploitation of resources, consumerism and hedonism have had an impact that seriously threatens human existence.
+
+The role humans have played in affecting climate change and ocean acidification is pretty clear. We have all heard the warnings <a href="#ch4-4"><sup>4-4</sup></a> and shrugged off responsibility. It has taken us a while to recognize the basic cause and effect of global warming. Mostly it is the direct result of fossil fuel burning. We have been asleep at the wheel. The burning of dirty coal is high on the list and transportation fuel not only produces CO₂ but toxic substances and other greenhouse gases.
+
+<span style="font-family:serif;">Ground and Air Pollutants from burning coal in Saskatechewan</span>
+<img src="https://energyrealityproject.com/wp-content/uploads/2018/01/150505-saskpower-emit.png" alt="" width="750" height="848" class="aligncenter size-full wp-image-1983" />
+
+Also, burning gasoline and heating our homes with natural gas and oil seem like innocent activities to most, but they also emit CO₂ and adds up collectively. As a greenhouse gas CO₂ is accumulating the fastest and is understood to be the most prevalent greenhouse gas. We are to blame because we continue to use these fuels. They have contributed to the constant building up of Carbon dioxide. CO₂ is the most plentiful of various greenhouse gases in the atmosphere (over 400 parts per million). The oceans have absorbed a lot of CO₂ acting as a buffer. The natural ability of the oceans has prevented an otherwise much faster global warming, and consequently a lowering of the ocean's pH level. This lowering of the ocean's pH and global warming has begun the process of massive sea life extinctions.
+
+Awareness of the problem created by greenhouse gases is common knowledge but news of the backlog and future effects have snuck up on us.
+
+
+
+## A CO₂ backlog?
+
+Even if humans stopped causing CO₂ emissions today the existing excess CO₂ and the backlog in the air and oceans would take centuries<sup><a href="#ch4-5">4-5</a></sup> or millenia to complete its natural cycle where it is returned to solid form in the ground and ocean floor. If by some incredible cooperative effort we somehow managed to stop burning stuff and stopped contributing to the existing trillion tons of CO₂ not yet dissolved in the seas tomorrow, the warming it causes will not stop. Stopping all combustion would mean stopping coal and natural gas plants, commercial airlines, automobiles, industrial processes that use combustion, even your reading light by your bed could be powered by combustion if the energy comes from coal. It is not good enough to cut back. A reversal is what’s needed. All the coal, gasoline, coke, oil, biofuel, cement and steel production require combustion and that is exactly what needs to stop.
+
+But many of these processes could be sustainable if they used nuclear power for electricity that would charge car batteries and the molten salt reactor possibilities of industrial heat to produce low carbon fuel and create better ways to accomplish common industrial activities.
+
+
+
+
+## Raise the alarm bells!
+
+Some scientists warned us. In fact one scientist who will come back to our story again. Alvin Weinberg, the inventor of the light water reactor and the molten salt reactor, predicted that our over use of coal could have serious consequences back in 1974.
+
+The obvious early warning signs of the effects of climate and ocean change are rising sea levels. Parts of New York city have started flooding due to the constant rising. Sea levels have risen 70% more rapidly since 1993.<sup><a href="#ch4-6">4-6</a></sup>
+
+In a video news release President Obama spoke of his plans for attending GLACIER<sup><a href="#ch4-7">4-7</a></sup>, a conference held Aug 30th, 2015.
+
+<div class="myquotes">“Climate change once seemed like a problem for future generations, but for most Americans it’s already a reality – deeper droughts, longer wildfire seasons, some of our cities even flood at high tide," he said...In Alaska glaciers are melting… the hunting and fishing upon which generation have depended for a way of life and their jobs are being threatened."</div>
+
+But the politicians are still playing politics. They can count on the fact that the public does not fully understand how extreme the problem has become. It is right to take action, but the size of the problem continues to be swept under the carpet. U.S. diplomacy has failed in winning allies regarding fighting climate change. Stating that the problem is serious, and then proposing countermeasures that amount to very little is a typical political maneuver. Politicians fear a pandora’s box, too big to confront and not within the scope of even one election cycle. To be set on a course of extreme action is just too big an issue for any future political leader to dare handle. However we have seen in the 2020 election campaign a more daring election platform pushing for both election reform and a promise to implement nuclear energy by Andrew Yang and Cory Booker. Biden is the only choice. If climate change is to be taken seriously then nuclear energy must be a platform issue.
+
+James Hansen of NASA Godard Institute for Space Studies started officially recording global temperatures on 1981. His most well known testimony before congress in 1988 did the most to raise awareness of global warming. He also wrote a paper in 2003 called "Can We Defuse the Global Warming Time Bomb?"<sup><a href="#ch4-8">4-8</a></sup>
+
+
+
+## How We Measure Success
+
+Most people would agree that technologically we, as a civilization, have come a long way. But if we were to measure how much of a difference any particular technology has made to our lives, nuclear technology might be the greatest of them all.
+
+The engineers who designed and built the first nuclear reactors learned to apply science that was based on layers of engineering in many disciplines never seen before. They built the ultimate machine that could transform a "rock" into immense power. Power that could be extended, controlled and sustained for decades refueling once a year with some designs (i.e. CANDU) that never needed to shut down<sup><a href="#ch4-9">4-9</a></sup> during refueling. The largest plants are strong enough to supply all the electricity needs of an average city. That rock was no ordinary rock. Some of the proposed 4th generation reactors we will see next decade will only need refueling every 4-7 years.<sup><a href="#ch4-10">4-10</a></sup>
+
+The irony is that the same science that led to the atom bomb is the same science that could lead to a solution that saves us. We already know that nuclear medicine is a field that has saved millions. Nuclear power plants have been a very important substitute for polluting coal plants. That alone goes a very long way to providing part of the solution. The atomic age is here but not nearly at the level it could be. The science of using uranium for bombs and the science of using uranium for creating energy are two distantly related and very distinct disciplines. We can’t let our fear of nuclear bombs affect our path forward with nuclear power and nuclear medicine. (See <a href="#chapter-fourteen">Chapter Fourteen</a>)
+
+
+### Effects of Resource Wars
+
+When you compare spending on defense and military between countries we can see that most of the biggest countries feel the need to protect their sovereignty. The US spends trillions on defense, spending that could otherwise go far towards solving the energy crisis for example or replacing coal with nuclear. The misguided funding of the government military and defense sucks the life out of the economy and the competing government departments who get stuck with comparably pitiful amounts.
+
+
+
+### Overcoming Irrational Fear
+
+The way James Lovelock describes the fear is that nuclear radiation is mistakenly connected to cancer<sup><a href="#ch4-11">4-11</a></sup>. We have all witnessed the effects of the disease. We live with a contradiction and most of us have witnessed that radiation can even cure cancer. We have been told it can cause cancer but, in truth, not so easily.&nbsp; Our bodies have evolved from a time when radiation was even greater than we now deal with in our modern daily existence. Remember that we have radiation around us all of the time. Our bodies deal with far more chemical assaults than radiation assaults. In fact many scientists have concluded that radiation below a certain level is actually beneficial. The common items we come in contact with daily do not harm us even though they emit radiation.
+
+Things like bananas (any foods with potassium), granite, marble, the sky, the sun, the earth, the sand on the beach, the ocean we swim in all have radiation. You remember the nuclear bomb tests that took place in the ocean, the air, underground? (Some exceptions of course took place but even expert Richard Rhodes says its the fires that do the most harm<sup><a href="#ch4-12">4-12</a></sup>) But, how is it possible that we have not had massive illnesses from radiation exposure to fallout? The reason is that the radiation is diluted to levels that we already routinely deal with on a daily basis so it has no consequence.&nbsp; This is also true of rarely occurring nuclear accidents. In fact coal plants are far worse. Coal emits all kinds of toxins including, you guessed it, radiation. Keep in mind radiation has a halflife. It disappears eventually. The chemicals like mercury, sulphur and arsenic that are emitted by coal plants are forever.&nbsp;&nbsp;
+
+
+
+### Innocence to Disillusionment
+
+A lot happened in nuclear science while we were not looking (See Benefits of Nuclear Science in <a href="#chapter-twelve">Chapter Twelve</a>).  It does raise some questions. What happened? What caused the industry to forge ahead scientifically without making the science and mathematics more accessible? How did the public's grasp on the science become so distant?
+
+Our fears have affected the outcome of the dream of an atomic age<sup><a href="#ch4-13">4-13</a></sup>. Even the medical world has been affected by the attitude towards nuclear plants. Such a slowdown was triggered by unfortunate circumstances. As a result of misunderstood mechanical failures in two nuclear plants (three if you count the more recent Fukushima) the industry became heavily regulated, over politicized and over scrutinized in an already over-regulated industry.
+
+
+
+
+## The Boomers
+
+The 1950s expanded and ushered in a real consumer and commercial age. It was a baby boom era that created a market frenzy that flaunted the products and lifestyle of the American dream. Images of stay-at-home housewives and the working husband became a frequent part of the ads in magazines and on sponsored television. Symbols of prosperity, innocence and hope clashed with those of the civil rights movement&nbsp; and the witch hunts against communists.
+
+The depiction of the Russian adversary in films and news about a growing arms race heightened the fears. The rapid scientific advancement and military expansion on both sides as well as attempts to justify aggression both abroad and against the so-called communist sympathizers produced deep psychological damage that would have repercussions in more than just America. The Middle East, Korea and Vietnam all became the stage to play out the drama of building American military might and the policing of the free world against communist expansion.
+
+
+
+## Lessons Learned?
+
+A lot of traditional values slipped away when mass media started to dominate our daily routine. At first it felt good economically because people had plenty of disposable income. But a lot started to change as the period of innocence gave way to cynicism. We started to recognize hypocrisy. We had been raised on a phony ideal. What was labeled the "me" generation emerged. Divorces skyrocketed and children with single parents became quite common.
+
+The ideal of being wholesome, law abiding and self sacrificing was the message coming from the establishment as to the best path to follow, but after experiencing a lack of similar sentiments in return we began to feel betrayed. The preaching and the doing has not been consistent. It has eroded our confidence in the system. But the system is supposed to be democratic. Do we let democracy perform as it should? How might our wishes be better represented? More on this later.
+
+
+
+### What Stifled Progress?
+
+In order to see how silence, secrecy and the Cold War we need to go back to the root of the problem which produced a generation of anti nuclear citizens. It began with the second world war, the Manhattan Project (1939-1946). It was a project to develop the atomic&nbsp; bomb. Done in secret, the best scientists from around the world were assembled.
+
+How it happened and why it happened is generally understood. It was wartime. But that secrecy is what drove a wedge between public understanding and scientific advancement.
+
+A great deal was accomplished in those few years. A very large body of scientific discovery was known by only a limited number of people and kept secret for several decades.
+
+Glenn Seaborg had started to report on the properties of thorium and uranium in 1939. His big breakthroughs in 1942 were with thorium and plutonium. Seaborg knew that he had made a startling discovery and saw its potential for powering electricity for peaceful purposes. But his discovery that Thorium could create Uranium 233 was overshadowed by his discovery of Plutonium.
+
+Thorium had the promise of being used for peaceful purposes but the bomb fuel, plutonium, became the focus till after the war. Thorium became the motivating purpose for the molten salt reactor over a decade later under Alvin Weinberg’s Molten Salt Reactor Experiment (MSRE).
+
+Ironically the military quest intervened once more in the late 40s when it was requested that a nuclear powered airplane be designed.
+
+The years following the 2nd World War were generally positive about the prospects of an atomic age. The public had visions of a very modern and affordable future. But the contingent of an uncertain future with an aggressive Russian leadership kept the US military leadership on a continuous R&amp;D effort to hold onto its military advantage. The next goal was the Nuclear Energy Powered Aircraft&nbsp; (NEPA) under General Curtis. He had commanded the bomber attacks on Japan during the war. Conceptually the idea was to be able to keep a nuclear bomber aircraft airborne indefinitely, unrestricted by fuel limitations. There were several designs being considered. The idea was tested for a short time and it was dropped and picked up again later.
+
+Weinberg had a long standing position as administrator at the Oak Ridge National Laboratory from 1945 to 1973. Just like many of his colleagues he had worked on the Manhattan Project.
+
+In Weinberg’s The First Nuclear Era he says “as I think back on Wigner’s design of the Hanford plutonium-producing reactors, I can think of only one analogy: Mozart, who would compose a piano concerto in a few days. The whole thing was accomplished in about four months...the entire conception was mind-boggling- a chain-reacting pile producing 500 megawatts at a time when no one had operated a critical pile at any power… we can hardly imagine the sense of strangeness that pervaded the enterprise in 1942."
+
+A smaller reactor was now being considered for flight. Weinberg knew it was not a smart idea for a few reasons but he welcomed a chance to develop the technology to become a better reactor than his first invention the Light Water Reactor (LWR) which eventually became a huge success on submarines and aircraft carriers and eventually civilian commercial reactors.
+
+Since the light water reactor had been declared too heavy for flight a new design was requested and that is when the MSRE was born. What was called the Thorium cycle that produced <sup>233</sup>U had been determined to be unsuitable for nuclear weapons.
+
+But the design concept was radically different from any previous reactors. The fuel was blended with a molten salt mixture and it so happens that uranium 233 was the fuel of choice but prepared in a separate research reactor. The eventual development of thorium processing would depend on getting the green light to develop a commercial reactor. The thorium cycle produced <sup>233</sup>U, a fuel much less desirable for weapons, and it held the promise of a cheaper to build, more efficient and even safer reactor. Alvin Weinberg's focus on reactor safety and his strong preference for the molten salt reactor designs went against the more favored nuclear design, the Light Water Reactor. It was what led to his being fired.
+
+Much of the library at Oak Ridge National Laboratory (ORNL) consists of thousands of pages that remained classified until the 1990s. This whole field of science had stayed secret while a new generation of engineers and scientists knew very little about it. Glenn Seaborg referred to the secrecy of the time as “small islands of technical information sealed off from the rest of society."
+
+In a book titled “Neutron’s Children: Nuclear Engineers and the shaping of identity" Sean F. Johnston states “Previous studies of secrecy in the nuclear field have focused on those vocal and visible members of the ‘atomic scientists movement’ who actively promoted internationalism and progressive ideals during the post-war period, or on contemporary weapons designers. By contrast, the effects of secrecy on their cousins the engineers, technicians, and other skilled nuclear specialists, who arguably were even more affected, kept them relatively voiceless and unexamined." … “Like medieval monasteries, wartime and post-war national laboratories in the USA, UK and Canada promoted distinct regional variations, they were not founded primarily with economic motivations, but on locally nuanced and isolated intellectual foundations; they combined idealism with pragmatic duties; and they served a strong central authority."
+
+The knowledge gained from developing and processing the fuel for weapons during those early war years prepared the way for commercial reactors. But the secrecy caused a gap in understanding which led to&nbsp; the myths about nuclear energy and atomic science. This grew into a backlash that prevented us from benefitting from the full potential that nuclear technologies capability promised.
+
+The quest for military power and the propaganda machine was certainly an obstacle. Various leaders and men in positions of power took on roles that were strategic for developing a superior military force and providing a technical knowledge that unintentionally became a part of a knowledge resource for positive change. President Harry Truman back in 1946 wanted nuclear research out of the hands of the armed forces and switched to civilian hands. This was a controversial issue and remained a divisive issue for decades to come. The&nbsp; Eisenhower years also started an initiative around the need for expanding nuclear energy with the Atoms for Peace program. Kennedy, Johnson, Nixon and Reagan had positive outlooks for nuclear energy. But not enough to stay the course.
+
+There were other factors, such as the hubris that accompanies any specialized field, that played a role in causing the delay of nuclear science advances reaching the public as well as contributing to a growing mistrust of scientists.
+
+Science has grown and fragmented into an unimaginable number of fields and specialties. This trend has blossomed to a point where any member of the public is challenged to keep up. But energy is fundamental just like food and money. So the basics of energy need to be learned early. Now more than ever nuclear energy must play a role in restoring Earth to an ecological balance.
+
+In light of this we need to understand what other obstacles also prevented acceptance of nuclear energy. These obstacles have their roots in anti nuclear groups and individuals. The original antinuclear groups never confused the two technologies of nuclear weapons and nuclear energy. They simply wanted to ban the bomb. But with growing consumerism and personal possessions adding two or more cars per household began to make the oil companies very wealthy. They were so huge and wealthy that they made the nuclear companies seem commercially insignificant. But for the oil companies it was the prospect of nuclear energy taking some of their valued business away.
+
+So joining the propaganda effort were the corporations who saw nuclear energy as a threat. On one hand you had the propaganda justifying the war machine and on the other you had a rationale designed to slow down or stop nuclear energy in order to ensure continued profits from oil and coal.
+
+In conclusion a lot of the blame for the sins against the environment sits with corporate greed, the military complex and the growing gap between the public and scientific community. We can begin to see that turning a blind eye to important trends had repercussions. To ignore the warnings of people like Alvin Weinberg who wanted a better nuclear reactor that was potentially cheaper and safer and therefore more able to bring on the atomic era was a sensible vision in retrospect. Knowing that climate was changing was not a major concern for very many.
+
+## Walk the Walk, Talk the Talk
+
+We have had it lucky in North America. We have been the envy of many nations. Our comforts seem to have come easily. Credit goes to the engineers and designers for their clever innovations and inventions. But still, we are spoiled with energy.
+
+Most people take energy for granted. The first big lesson we need to learn is getting a sense of what it’s like to have energy poverty. We understand very well what it’s like to have energy wealth. Televisions, computers, stereos, microwave ovens, dishwashers, giant freezers, heating, air conditioning, battery chargers and the list goes on and on. If you live in a city you have traffic lights, sports bars running eight or more giant TV screens with different games being broadcast, elevators, escalators, coffee makers, electric trains, electric pumps to send water into all those high rise buildings and the list goes on.
+
+The United States and Canada have been the biggest energy consumers in the world per capita. According to World Bank<sup><a href="#ch4-14">4-14</a></sup>:
+
+<strong>Equivalent of Gallons of oil/yr/capita. (2011)</strong>
+
+<ul style="list-style-type:square;"><li>US - 7,000 (Canada slightly higher)</li>
+<li>China - 2,000</li>
+<li>India -&nbsp; 600</li></ul>
+
+The metric tons/yr/capita of carbon dioxide emissions:
+
+<ul style="list-style-type:square;"><li>US 17</li>
+<li>China 7</li>
+<li>India 2</li>
+</ul>
+
+In the next 20 years power demand in developing countries is expected to increase by more than 250%, in industrialized countries, however, only by 37%. That’s a growth rate of more than double for developing countries and not much more than a third for localities in North America.
+
+Per capita energy consumption for India shows you what energy poverty looks &nbsp;like. Blackouts and brownouts are normal in India but even more common is no electricity at all.
+
+Blackouts are pretty common across the U.S. as well. Facts on blackouts from Issues in Science and Technology magazine:
+
+<div class="myquotes">“The average U.S. customer loses power for 214 minutes per year. That compares to 70 in the United Kingdom, 53 in France, 29 in the Netherlands, 6 in Japan, and 2 minutes per year in Singapore. These outage durations tell only part of the story. In Japan, the average customer loses power once every 20 years. In the United States, it is once every 9 months, excluding hurricanes and other strong storms.<br /><br />
+
+Despite decades of sober technical reports written by investigation teams in the aftermath of blackouts, the frequency of electric power outages in the United States is no less today than it was a quarter-century ago. Whether measured in terms of city-sized blackouts or smaller events, the statistics show that reliability has not improved. Indeed, if the data shows any trend in the past few years, it is toward lower reliability.
+
+The causes of outages in the United States show there is considerable room for improvement. If outages from major storms are excluded, the causes of each hour of outage include equipment failure (24 minutes), as in the 1965 Northeast blackout; untrimmed trees near power lines (6 minutes); and mistakes by power company personnel (4 minutes), as in the 1977 New York blackout and the 2005 Los Angeles outage. This history of blackouts creates ample public demand to increase reliability, opening a window of opportunity for the industry<sup><a href="#ch4-15">4-15</a></sup>."</div>
+
+
+
+
+
+## Quick Facts
+
+Government has always played a role in energy supply. This is a handy list to keep when accusations fly about expensive nuclear power getting subsidies:
+
+### Subsidies in the US
+
+| Source     | Subsidy | Total | Timeframe       | Duration |
+| ---------- | ------- | ----- | --------------- | -------- |
+| Nuclear    | 9%      | $65b  | 1950&ndash;2006 | 56 years |
+| Renewables | 6%      | $45b  | 1986&ndash;2006 | 30 years |
+| Coal       | 13%     | $94b  | 1950&ndash;2006 | 56 years |
+| Hydro      | 11%     | $80b  | 1950&ndash;2006 | 56 years |
+
+<cite>Source: provided by NEI</cite>
+
+<!-- todo comeback bad formatting -->
+
+The components of a wind turbine are not as clean as you imagine.
+
+* 200-378 Tonnes of steel
+* 1 tonne of coal used to make 1 tonne of steel (we know coal kills)
+* 1000 tons of concrete for the base
+* 200 kg of coal per tonne of cement
+* 200 tonnes of coal for the concrete base
+* 400 tonnes or more of coal for a single wind turbine
+* 131 tonnes of coal kills one person
+* before the windmill even begins to operate it has effectively killed 3 people based on how much coal is used to complete.(my own calculation)
+* for the same amount of electricity produced, wind turbines require 50 times more steel and 60 times more concrete than nuclear reactors.
+* Seven hundred lbs of coal will keep a 100 watt light bulb glowing for a year
+* A ball of thorium the size of a golf ball can supply one person's energy needs for a lifetime.(assuming it is a molten salt reactor)
+* One ton of natural uranium can produce more than 40 million kilowatt-hours of electricity. This is equivalent to burning 16,000 tons of coal or 80,000 barrels of oil.
