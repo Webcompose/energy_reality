@@ -1,0 +1,11 @@
+.DS_Store
+
+# build artifacts
+Gemfile.lock
+index.html
+energy-reality.pdf
+energy-reality.pdfmarks
+energy-reality.epub
+energy-reality-kf8.epub
+energy-reality.mobi
+contributors.txt
