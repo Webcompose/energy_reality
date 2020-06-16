@@ -1,5 +1,0 @@
-!include(frontmatter/frontmatter.mdpp);
-
-!include(content/bookcontent.mdpp);
-
-!include(backmatter/backmatter.mdpp);
